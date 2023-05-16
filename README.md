@@ -5,10 +5,16 @@ Este projeto consiste na criação de um jogo, baseado no do dinossauro do Chrom
 Nele você controla seu personagem com uma ação de pulo, desviando do obstáculo a sua frente. <br>
 Caso você enconste no obstáculo, você perde.
 
+Melhorias do projeto original:
+<ul>
+  <li>Botão de reload, após perder é possível reiniciar um novo jogo.</li>
+</ul>
+
 # Layout do Projeto
 
 <p align="center">
-  <img width="900" height="450" src="src/assets/to_readme/home.png">
+  <img width="900" height="450" src="images/to_readme/game.png">
+  <img width="900" height="450" src="images/to_readme/gameOver.png">
 </p>
 
 # Tecnologias Utilizadas

@@ -45,6 +45,13 @@
     bottom: -80px;
 }
 
+.reload {
+    position: absolute;
+    width: 150px;
+    left: 50%;
+    top: 40%;
+}
+
 @keyFrames pipe-animation {
     from {
         right: -80px;
